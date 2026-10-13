@@ -1,19 +1,19 @@
 @font-face {
   font-family: 'Modern DOS 8x14';
-  src: url('./ModernDOS8x14.ttf') format('truetype');
+  src: url('https://cdn.jsdelivr.net/gh/jichu4n/fonts/ModernDOS8x14.ttf') format('truetype');
 }
 
 @font-face {
   font-family: 'Modern DOS 8x16';
-  src: url('./ModernDOS8x16.ttf') format('truetype');
+  src: url('https://cdn.jsdelivr.net/gh/jichu4n/fonts/ModernDOS8x16.ttf') format('truetype');
 }
 
 @font-face {
   font-family: 'Modern DOS 9x14';
-  src: url('./ModernDOS9x14.ttf') format('truetype');
+  src: url('https://cdn.jsdelivr.net/gh/jichu4n/fonts/ModernDOS9x14.ttf') format('truetype');
 }
 
 @font-face {
   font-family: 'Modern DOS 9x16';
-  src: url('./ModernDOS9x16.ttf') format('truetype');
+  src: url('https://cdn.jsdelivr.net/gh/jichu4n/fonts/ModernDOS9x16.ttf') format('truetype');
 }
